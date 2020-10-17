@@ -1,0 +1,9 @@
+.carousel-item img {
+    height: 20vh;
+    object-fit: cover;
+    filter: grayscale(60%);
+}
+
+.carousel {
+    position: relative;
+}
