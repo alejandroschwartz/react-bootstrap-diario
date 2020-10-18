@@ -11,7 +11,7 @@ const Politics = () => (
         <div className="row mt-4">
             <div className="col">
                 <label className='label' htmlFor="one">
-                    <input type="checkbox" name="" id="one" />
+                    <input type="checkbox" name="Macri" id="one" />
                     <div className="politic one">
                         <img src="https://i.imgur.com/Toyk28W.png" height='80px' alt=""/>
                     </div>
@@ -20,7 +20,7 @@ const Politics = () => (
             </div>
             <div className="col">
                 <label className='label' htmlFor="two">
-                    <input type="checkbox" name="" id="two"/>
+                    <input type="checkbox" name="Expert" id="two"/>
                     <div className="politic two">
                         <img src="https://i.imgur.com/C07grp6.png" height='80px' alt=""/>
                     </div>
@@ -29,7 +29,7 @@ const Politics = () => (
             </div>
             <div className="col">
                 <label className='label' htmlFor="three">
-                    <input type="checkbox" name="" id="three"/>
+                    <input type="checkbox" name="Centurion" id="three"/>
                     <div className="politic three">
                         <img src="https://i.imgur.com/d5m9RYh.png" height='80px' alt=""/>
                     </div>
@@ -38,7 +38,7 @@ const Politics = () => (
             </div>
             <div className="col">
                 <label className='label' htmlFor="four">
-                    <input type="checkbox" name="" id="four"/>
+                    <input type="checkbox" name="Lavagna" id="four"/>
                     <div className="politic four">
                        <img src="https://i.imgur.com/1iueqP0.png" height='80px' alt=""/>
                     </div>
@@ -47,7 +47,7 @@ const Politics = () => (
             </div>
             <div className="col">
                 <label className='label' htmlFor="five">
-                    <input type="checkbox" name="" id="five"/>
+                    <input type="checkbox" name="Fernandez" id="five"/>
                     <div className="politic five">
                         <img src="https://i.imgur.com/D2wWl3r.png" height='80px' alt=""/>
                     </div>
@@ -56,7 +56,7 @@ const Politics = () => (
             </div>
             <div className="col">
                 <label className='label' htmlFor="six">
-                    <input type="checkbox" name="" id="six"/>
+                    <input type="checkbox" name="Del Caño" id="six"/>
                     <div className="politic six">
                         <img src="https://i.imgur.com/UWgPBI5.png" height='80px' alt=""/>
                     </div>
@@ -85,6 +85,16 @@ const Politics = () => (
                 </div>
             </div>
         </div>
+
+        <div className="row">
+        <h1 id='resultado' ></h1>
+            <h1 id='resultado2' ></h1>
+            <h1 id='resultado3' ></h1>
+            <h1 id='resultado4' ></h1>
+            <h1 id='resultado5' ></h1>
+            <h1 id='resultado6' ></h1>
+        </div>
+
     </div>
 
 );
