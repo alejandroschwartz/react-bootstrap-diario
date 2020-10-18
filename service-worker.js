@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/raect-bootstrap-diario/precache-manifest.23547c33097d98446d63a35c3092e6a5.js"
+  "/raect-bootstrap-diario/precache-manifest.b1feb56a21d96309e1e14e9f6274b634.js"
 );
 
 self.addEventListener('message', (event) => {

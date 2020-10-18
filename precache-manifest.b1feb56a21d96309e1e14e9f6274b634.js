@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0799a4396603bf64b28c5e47a907117f",
+    "revision": "c17eb7e2fd9a596b6e98ec983057e9b7",
     "url": "/raect-bootstrap-diario/index.html"
   },
   {
-    "revision": "8e9c08ab0f991fbd3f18",
+    "revision": "992955c93790e3a0d606",
     "url": "/raect-bootstrap-diario/static/css/main.86fda925.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/raect-bootstrap-diario/static/js/2.9830a8d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e9c08ab0f991fbd3f18",
-    "url": "/raect-bootstrap-diario/static/js/main.28762637.chunk.js"
+    "revision": "992955c93790e3a0d606",
+    "url": "/raect-bootstrap-diario/static/js/main.0110dc41.chunk.js"
   },
   {
     "revision": "cfa965e2768fea945f32",
