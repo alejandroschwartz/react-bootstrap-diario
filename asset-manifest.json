@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/raect-bootstrap-diario/static/css/main.86fda925.chunk.css",
-    "main.js": "/raect-bootstrap-diario/static/js/main.0110dc41.chunk.js",
-    "main.js.map": "/raect-bootstrap-diario/static/js/main.0110dc41.chunk.js.map",
+    "main.js": "/raect-bootstrap-diario/static/js/main.7801ff67.chunk.js",
+    "main.js.map": "/raect-bootstrap-diario/static/js/main.7801ff67.chunk.js.map",
     "runtime-main.js": "/raect-bootstrap-diario/static/js/runtime-main.a577a44f.js",
     "runtime-main.js.map": "/raect-bootstrap-diario/static/js/runtime-main.a577a44f.js.map",
     "static/js/2.9830a8d8.chunk.js": "/raect-bootstrap-diario/static/js/2.9830a8d8.chunk.js",
     "static/js/2.9830a8d8.chunk.js.map": "/raect-bootstrap-diario/static/js/2.9830a8d8.chunk.js.map",
     "index.html": "/raect-bootstrap-diario/index.html",
-    "precache-manifest.b1feb56a21d96309e1e14e9f6274b634.js": "/raect-bootstrap-diario/precache-manifest.b1feb56a21d96309e1e14e9f6274b634.js",
+    "precache-manifest.897e6741db43711de5677b8405ceb718.js": "/raect-bootstrap-diario/precache-manifest.897e6741db43711de5677b8405ceb718.js",
     "service-worker.js": "/raect-bootstrap-diario/service-worker.js",
     "static/css/main.86fda925.chunk.css.map": "/raect-bootstrap-diario/static/css/main.86fda925.chunk.css.map",
     "static/js/2.9830a8d8.chunk.js.LICENSE.txt": "/raect-bootstrap-diario/static/js/2.9830a8d8.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a577a44f.js",
     "static/js/2.9830a8d8.chunk.js",
     "static/css/main.86fda925.chunk.css",
-    "static/js/main.0110dc41.chunk.js"
+    "static/js/main.7801ff67.chunk.js"
   ]
 }
