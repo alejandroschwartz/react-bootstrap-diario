@@ -1,6 +1,5 @@
 import React from 'react';
 import '../assets/styles/Politics.scss';
-// import './Politics.js';
 
 const Politics = () => (
 

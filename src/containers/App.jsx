@@ -1,19 +1,17 @@
 import React from 'react';
-import Heater from '../components/Header';
+import Header from '../components/Header';
 import Carousel from '../components/Carousel';
 import Main from '../components/Main';
-import Politics from '../components/Politics.jsx';
-// import Example from '../components/Example';
+import Politics from '../components/Politics';
 
 import '../assets/App.scss';
 
 const App = () => (
     <div className="App">
-        <Heater />
+        <Header />
         <Carousel />
         <Main />
         <Politics />
-        {/* <Example /> */}
     </div>
 );
 

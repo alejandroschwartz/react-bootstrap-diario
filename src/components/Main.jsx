@@ -1,7 +1,7 @@
 import React from 'react';
 import '../assets/styles/Main.scss';
 
-const Header = () => (
+const Main = () => (
 
     <div className="main">
         <div className="container">
@@ -24,4 +24,4 @@ const Header = () => (
 
 );
 
-export default Header;
+export default Main;
